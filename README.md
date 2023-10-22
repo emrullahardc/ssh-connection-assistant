@@ -1,13 +1,14 @@
 # ssh-connection-assistant
 This script provides you to register your servers and connect quickly
 
-Important:
+## Configurations:
 
-This script requires an sshpass package. Opensl sshpass package is recommended
-
-Configurations: 
 chmod +x niyazi.sh
 
+## Usage:
 
-Usage
 ./niyazi.sh / sh niyazi.sh
+
+## Important:
+
+This script requires an sshpass package. Opensl sshpass package is recommended
